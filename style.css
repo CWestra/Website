@@ -1,0 +1,18 @@
+h1 {
+text-decoration: underline;
+color: black;
+}
+
+body { 
+    font-family:'lobster two', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(190, 211, 216, 0.714)
+}
+
+p {
+  font-size: 20px;  
+}
+
+li, 
+ul {
+font-size: 25px;
+}
