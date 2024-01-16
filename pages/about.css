@@ -1,0 +1,21 @@
+/* Website Styles */
+
+* { 
+    font-size: 100%;
+}
+
+h1{
+ text-decoration: underline;
+ color: black;
+ font-size: 36px ;
+ font-weight: bold;
+ text-align: center;
+}
+
+h2{
+ font-size: larger;
+}
+
+body{
+background-color: rgb(167, 198, 198);
+}
