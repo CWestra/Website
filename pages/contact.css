@@ -4,10 +4,6 @@
     font-size: 100%;
 }
 
-header{
-    background-color: rgb(235, 31, 4);
-}
-
 h1{
   text-decoration: underline;
  color: black;
@@ -16,11 +12,32 @@ h1{
  text-align: center;
 }
 
-body {
-    background-color: bisque;
+body { 
+    font-size: 20px ;
+    font-family:'lobster two', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(190, 211, 216, 0.714);
 }
 
 h2{
     font-size: 28px;
 }
 
+li{
+    display: inline-block;
+    margin: 20px;
+  }
+
+  a:link{
+    text-decoration:none;
+  }
+
+  a:visited{
+    text-decoration: none;
+  }
+
+  a:hover{
+    text-decoration: underline;
+  }
+  a:active{
+    text-decoration: underline;
+  }
