@@ -47,7 +47,7 @@ p {
  ol,
   ul {
     margin: 15px;
-color: dimgray;
+   color: dimgray;
  }
  
  a { 
@@ -83,4 +83,24 @@ color: rgb(0, 0, 0);
 li{
   display: inline-block;
   margin: 20px;
+}
+
+#para1{
+font-size: 25px;
+}
+
+img {
+  width:30%;
+  height:30%;
+}
+
+.container{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.footbox{
+  background-image: url(./images/Butters\ and\ I.jpg);
+  width: 300px;
+  height: 300px;
 }
