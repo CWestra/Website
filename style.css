@@ -5,8 +5,7 @@
   margin: 1;
   line-height: 1;
   box-sizing: border-box;
-  /* border: 1px solid gray;
- */}
+  }
 
 header {
    border-bottom: 15px rgb(21, 7, 6); 
@@ -87,11 +86,6 @@ li{
 
 #para1{
 font-size: 25px;
-}
-
-img {
-  width:30%;
-  height:30%;
 }
 
 .container{
